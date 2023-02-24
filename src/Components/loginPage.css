@@ -1,0 +1,17 @@
+.wrapper { 
+   height: 100vh;
+   display : flex;
+   justify-content: center;
+   align-items: center;
+   width: 100vw;
+}
+
+
+.login { 
+    width: 300px;
+    height: min-content;
+    border-radius: 5px;
+    color: black;
+    padding: 20px;
+    background-color: aliceblue;
+}
